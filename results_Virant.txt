@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-F3GBLSG
+Date of Test: 2025-11-06 16:30:03
+Bubble Sort Time: 10.922253 seconds
+Quick Sort Time: 0.017755 seconds
+
