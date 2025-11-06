@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-F3U3864
+Date of Test: 2025-11-06 16:27:14
+Bubble Sort Time: 9.769875 seconds
+Quick Sort Time: 0.026875 seconds
+
